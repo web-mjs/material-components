@@ -12,7 +12,7 @@ import 'https://unpkg.com/@web-mjs/material-web-components';
 ```
 
 The module bundles <a href="https://github.com/material-components/material-components-web-components">material-components-web-components</a>, which
-is Google's implementation of Material bundled as Web Components that can be used as `<mwc-* />` elements.
+is Google's implementation of Material bundled as Web Components that can be used as `<mwc-* />` elements. A demo of the components is present on <a href="https://material-components.github.io/material-components-web-components/demos/index.html">their component catalog page</a>.
 
 The module contains:
 
