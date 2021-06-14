@@ -1,6 +1,6 @@
-<h3 align="center"><img src="https://avatars.githubusercontent.com/u/19478152?s=200&v=4" height="50" valign="middle"> ES Module (.mjs) for Web</h3>
+<h3 align="center"><img src="https://avatars.githubusercontent.com/u/19478152?s=200&v=4" height="50" valign="middle"> Web Components - ES Module (.mjs) for Web</h3>
 <hr>
-<h3 align="center">use Material Web Components just <code>import '@web-mjs/material-components'</code></h3>
+<h3 align="center">to use Material Components just <code>import '@web-mjs/material-components'</code></h3>
 
 ```html
 <script type="module">
@@ -40,4 +40,4 @@ The module contains:
 * `material/mwc-top-app-bar-fixed`
 
 
-**🚧 web-mjs is not affiliated with the Material Design team.** To build, use rollup or `npm run build`
+**🚧 web-mjs is not affiliated with the Material Design team.** To build on your own, use rollup or `npm run build`
