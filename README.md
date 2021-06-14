@@ -1,11 +1,11 @@
 <h3 align="center"><img src="https://avatars.githubusercontent.com/u/19478152?s=200&v=4" height="50" valign="middle"> Material - ES Module (.mjs) for Web</h3>
 <hr>
 <h3 align="center">to use Material Web Components just <br>
-<code>import 'https://unpkg.com/@web-mjs/material-components'</code></h3>
+<code>import 'https://unpkg.com/@web-mjs/material-web-components'</code></h3>
 
 ```html
 <script type="module">
-import 'https://unpkg.com/@web-mjs/material-components';
+import 'https://unpkg.com/@web-mjs/material-web-components';
 </script>
 
 <mwc-button raised label="Example"></mwc-button>

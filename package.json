@@ -1,7 +1,7 @@
 {
-  "name": "@web-mjs/material-components",
+  "name": "@web-mjs/material-web-components",
   "version": "0.21.0",
-  "description": "A .mjs bundle of Material Components.",
+  "description": "A .mjs bundle of Material Web Components.",
   "main": "index.mjs",
   "files": [
     "index.mjs"
@@ -43,12 +43,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/web-mjs/material-components.git"
+    "url": "git+https://github.com/web-mjs/material-web-components.git"
   },
   "author": "Filip Dimitrovski",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/web-mjs/material-components/issues"
+    "url": "https://github.com/web-mjs/material-web-components/issues"
   },
-  "homepage": "https://github.com/web-mjs/material-components#readme"
+  "homepage": "https://github.com/web-mjs/material-web-components#readme"
 }
