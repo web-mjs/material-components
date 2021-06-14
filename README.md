@@ -1,6 +1,7 @@
-<h3 align="center"><img src="https://avatars.githubusercontent.com/u/19478152?s=200&v=4" height="50" valign="middle"> Web Components - ES Module (.mjs) for Web</h3>
+<h3 align="center"><img src="https://avatars.githubusercontent.com/u/19478152?s=200&v=4" height="50" valign="middle"> Material - ES Module (.mjs) for Web</h3>
 <hr>
-<h3 align="center">to use Material Components just <code>import '@web-mjs/material-components'</code></h3>
+<h3 align="center">to use Material Web Components just <br>
+<code>import 'https://unpkg.com/@web-mjs/material-components'</code></h3>
 
 ```html
 <script type="module">
